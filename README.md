@@ -10,8 +10,6 @@ An AI-powered threat modeling tool that leverages Large Language Models (LLMs) t
 - [Roadmap](#roadmap)  
 - [Installation](#installation)  
 - [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ## **Features**  
 - Simple and user-friendly interface  
@@ -102,12 +100,5 @@ An AI-powered threat modeling tool that leverages Large Language Models (LLMs) t
 
 **Note:** When you run the application (either locally or via Docker), it will automatically load the environment variables you've set in the `.env` file. This will pre-fill the API keys in the application interface.  
 
-## **Contributing**  
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
 
-## **License**  
-[MIT](https://choosealicense.com/licenses/mit/)  
 
----
-
-Let me know if you need any **further refinements or additional sections**! 🚀
