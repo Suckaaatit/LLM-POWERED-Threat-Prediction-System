@@ -949,33 +949,25 @@ with st.sidebar:
     )
     st.markdown(
         """
-    ### **How does STRIDE GPT work?**
-    When you enter an application description and other relevant details, the tool will use a GPT model to generate a threat model for your application. The model uses the application description and details to generate a list of potential threats and then categorises each threat according to the STRIDE methodology.
+    
+    )
+    st.markdown(
+        """
+    
     """
     )
     st.markdown(
         """
-    ### **Do you store the application details provided?**
-    No, STRIDE GPT does not store your application description or other details. All entered data is deleted after you close the browser tab.
+    
     """
     )
     st.markdown(
         """
-    ### **Why does it take so long to generate a threat model?**
-    If you are using a free OpenAI API key, it will take a while to generate a threat model. This is because the free API key has strict rate limits. To speed up the process, you can use a paid API key.
-    """
+    
     )
     st.markdown(
         """
-    ### **Are the threat models 100% accurate?**
-    No, the threat models are not 100% accurate. STRIDE GPT uses GPT Large Language Models (LLMs) to generate its output. The GPT models are powerful, but they sometimes makes mistakes and are prone to 'hallucinations' (generating irrelevant or inaccurate content). Please use the output only as a starting point for identifying and addressing potential security risks in your applications.
-    """
-    )
-    st.markdown(
-        """
-    ### **How can I improve the accuracy of the threat models?**
-    You can improve the accuracy of the threat models by providing a detailed description of the application and selecting the correct application type, authentication methods, and other relevant details. The more information you provide, the more accurate the threat models will be.
-    """
+    
     )
 
 
