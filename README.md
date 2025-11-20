@@ -7,6 +7,8 @@ An AI-powered threat modeling tool that leverages Large Language Models (LLMs) t
 
 
 <img width="665" height="373" alt="image" src="https://github.com/user-attachments/assets/07d16fc4-3837-4fb0-9b51-9f107cf849c2" />
+<img width="655" height="208" alt="image" src="https://github.com/user-attachments/assets/b5ca55d0-3313-4dbc-b1c4-ff5dc0c1fe30" />
+
 
 
 ## **Table of Contents**  
