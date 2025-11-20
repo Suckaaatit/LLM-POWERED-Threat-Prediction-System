@@ -5,6 +5,10 @@
 # **LLM-Powered Threat Prediction System**  
 An AI-powered threat modeling tool that leverages Large Language Models (LLMs) to generate threat models and attack trees for a given application based on the STRIDE methodology. Users provide application details, such as the application type, authentication methods, and whether the application is internet-facing or processes sensitive data. The model then generates its output based on the provided information.  
 
+
+<img width="665" height="373" alt="image" src="https://github.com/user-attachments/assets/07d16fc4-3837-4fb0-9b51-9f107cf849c2" />
+
+
 ## **Table of Contents**  
 - [Features](#features)  
 - [Roadmap](#roadmap)  
